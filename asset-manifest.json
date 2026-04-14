@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/fgc-tracker/static/js/main.f50a91bb.js",
+    "index.html": "/fgc-tracker/index.html",
+    "main.f50a91bb.js.map": "/fgc-tracker/static/js/main.f50a91bb.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f50a91bb.js"
+  ]
+}
