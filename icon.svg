@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192">
+  <rect width="192" height="192" rx="32" fill="#2563eb"/>
+  <rect x="36" y="56" width="120" height="80" rx="12" fill="white"/>
+  <rect x="36" y="56" width="120" height="28" rx="12" fill="#1d4ed8"/>
+  <rect x="36" y="72" width="120" height="12" fill="#1d4ed8"/>
+  <circle cx="62" cy="148" r="14" fill="#1e293b"/>
+  <circle cx="62" cy="148" r="7" fill="#94a3b8"/>
+  <circle cx="130" cy="148" r="14" fill="#1e293b"/>
+  <circle cx="130" cy="148" r="7" fill="#94a3b8"/>
+  <rect x="48" y="134" width="96" height="8" fill="#1e293b"/>
+  <rect x="56" y="90" width="32" height="36" rx="4" fill="#dbeafe"/>
+  <rect x="104" y="90" width="32" height="36" rx="4" fill="#dbeafe"/>
+  <text x="96" y="76" font-family="Arial" font-size="14" font-weight="bold" fill="white" text-anchor="middle">FGC</text>
+</svg>
