@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/fgc-tracker/static/js/main.0b20274d.js",
+    "main.js": "/fgc-tracker/static/js/main.bfd479e8.js",
     "index.html": "/fgc-tracker/index.html",
-    "main.0b20274d.js.map": "/fgc-tracker/static/js/main.0b20274d.js.map"
+    "main.bfd479e8.js.map": "/fgc-tracker/static/js/main.bfd479e8.js.map"
   },
   "entrypoints": [
-    "static/js/main.0b20274d.js"
+    "static/js/main.bfd479e8.js"
   ]
 }
